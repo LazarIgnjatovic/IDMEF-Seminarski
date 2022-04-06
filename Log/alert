@@ -1,0 +1,24 @@
+12/12-00:17:50.445853  [**] [1:382:7] ICMP PING Windows [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:50.445853  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:50.445889  [**] [1:408:5] ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.101 -> 192.168.56.1
+12/12-00:17:51.449163  [**] [1:382:7] ICMP PING Windows [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:51.449163  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:51.449182  [**] [1:408:5] ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.101 -> 192.168.56.1
+12/12-00:17:52.453430  [**] [1:382:7] ICMP PING Windows [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:52.453430  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:52.453451  [**] [1:408:5] ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.101 -> 192.168.56.1
+12/12-00:17:53.456686  [**] [1:382:7] ICMP PING Windows [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:53.456686  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:53.456706  [**] [1:408:5] ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.101 -> 192.168.56.1
+12/12-00:17:54.761340  [**] [1:382:7] ICMP PING Windows [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:54.761340  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:54.761390  [**] [1:408:5] ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.101 -> 192.168.56.1
+12/12-00:17:55.765050  [**] [1:382:7] ICMP PING Windows [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:55.765050  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:55.765070  [**] [1:408:5] ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.101 -> 192.168.56.1
+12/12-00:17:56.769325  [**] [1:382:7] ICMP PING Windows [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:56.769325  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:56.769345  [**] [1:408:5] ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.101 -> 192.168.56.1
+12/12-00:17:57.772654  [**] [1:382:7] ICMP PING Windows [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:57.772654  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.1 -> 192.168.56.101
+12/12-00:17:57.772694  [**] [1:408:5] ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.56.101 -> 192.168.56.1
